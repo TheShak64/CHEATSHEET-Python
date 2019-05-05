@@ -3,6 +3,6 @@ A brief overview of the basics of the python programming language including:
 - Datatypes
 - Conditions
 - Data Structures
+- Functions
+- Classes 
 
-Quick overview of the Pandas Library too, which includes:
-- ?
